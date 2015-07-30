@@ -19,7 +19,7 @@ app.use('/',function(req,res){
                     React.createElement("title", null, "Hello World")
                 ),
                 React.createElement("body", null,
-                    "index.jsx compiled into index.js by hand on the server")
+                    "saale kamine ye react hai")
             ))
     )
 })
